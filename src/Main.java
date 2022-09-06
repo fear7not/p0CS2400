@@ -3,7 +3,7 @@ Final Exam long programming question 5/19
 5/19 */
 import java.util.Scanner;
 public class Main {
-    public static void main (String args[]) //1
+    public static void main (String args[]) //2
     {
         Scanner sc = new Scanner(System.in);
         instructions();
